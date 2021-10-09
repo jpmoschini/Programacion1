@@ -2,7 +2,7 @@
 
 ##### Programación I y Laboratorio I
 
-##Trabajo Práctico N° 5: Arreglos paralelos.
+## Trabajo Práctico N° 5: Arreglos paralelos.
 
 Sean los arreglos paralelos, que simbolizan la entidad de software “alumno”:
 int legajos[20];
