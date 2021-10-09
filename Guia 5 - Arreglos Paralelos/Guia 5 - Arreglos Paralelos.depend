@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490112217 source:d:\usuarios\desktop\programación utn\programación y laboratorio 1\guías\guia 5 - arreglos paralelos\pila.c
+	"pila.h"
+
+1490112217 d:\usuarios\desktop\programación utn\programación y laboratorio 1\guías\guia 5 - arreglos paralelos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1624495991 source:d:\usuarios\desktop\programación utn\programación y laboratorio 1\guías\guia 5 - arreglos paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
