@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490112217 source:d:\usuarios\desktop\juampi programación\guía 1 - pilas\ejercicio 1\pila.c
+	"pila.h"
+
+1490112217 d:\usuarios\desktop\juampi programación\guía 1 - pilas\ejercicio 1\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1620149729 source:d:\usuarios\desktop\juampi programación\guía 1 - pilas\ejercicio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
